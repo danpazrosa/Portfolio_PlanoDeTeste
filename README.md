@@ -1,6 +1,6 @@
 # Portfólio
 
-EEste projeto tem como objetivo demonstrar a minha capacidades em elabor planos de teste e análise de requisitos.
+Este projeto tem como objetivo demonstrar a minha capacidades em elabor planos de teste e análise de requisitos.
 
 Neste repositório, você ira encontrar análise de dois (2) projetos, sendo eles:
 
@@ -18,3 +18,4 @@ Neste repositório, você ira encontrar análise de dois (2) projetos, sendo ele
 -Site utilizado para desenvolvimento do Plano [TODO-MVC](https://todomvc.com/examples/react/dist/ )
 
 ![Home Site TODO-MVC](img/site_todomvc.png)
+
