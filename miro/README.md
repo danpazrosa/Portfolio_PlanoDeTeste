@@ -1,6 +1,6 @@
-# Projeto TODO-MVC
+# Projeto Storytelling TODO-MVC
 
-Este projeto foi criado com o propósito de exercitar a análise técnica de um projeto real. Feito uma análise de um projeto do tipo Miro. Através deste protótipo, irei analisar os requisitos colocá-lo em execução.
+Este projeto foi criado com o propósito de exercitar a análise técnica de um projeto real de **Storytelling** de um site. Feito um projeto de templates no **Miro**. Através deste protótipo, irei analisar os requisitos e colocá-lo em execução em um plano de teste.
 
 ## Protótipo
 - Protótipo do Miro [ProjetoTODO-MVC](https://miro.com/app/board/uXjVNxAQG98=/)
