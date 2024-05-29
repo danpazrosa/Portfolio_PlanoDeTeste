@@ -3,7 +3,7 @@ Este projeto foi criado com o propósito de praticar a criacao e execucao do **P
 
 ## Ferramentas
 
--Site utilizado para desenvolvimento do Plano [TODO-MVC](https://todomvc.com/examples/react/dist/ )
+Site utilizado para desenvolvimento do Plano [TODO-MVC](https://todomvc.com/examples/react/dist/ )
 
 ![Home Site TODO-MVC](../img/site_todomvc.png)
 
