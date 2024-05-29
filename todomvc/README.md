@@ -26,19 +26,44 @@ Na aba Escopo da planilha irá conter todos os levantamentos de requisitos, crit
 
 ## Apresentação da Suite - Tela Inicial
 
-Na aba Suite - Tela Inicial contém o caso de teste funcional que valida a tela inicial. Com o critério de aceite, severidade, resultado esperado, resultado obtido, se houve defeito e com status de Emojis que vão de carinha triste a feliz dependendo do resultado esperado.
+Antes de tudo, em todas as Suites têm as mesmas funcionalidades, então para não ficar redundante e repetitivo, vou listar as funções delas abaixo e detalhar em cada uma o propósito da mesma.
+
+- Critérios de Aceite: São as condições que o teste deve cumprir para passar,
+
+- Resultado Esperado: É o que deveria acontecer quando o teste é executado corretamente.
+
+- Resultado Obtido: É o que realmente aconteceu durante a execução do teste, independete se passou ou não.
+
+- Registro de Defeito: É uma forma de documentar defeitos e bugs com evidências.
+
+- Indicador de Status: É uma representação visual do resultado do teste.
+
+Na aba Suite - Tela Inicial tem como objetivo validar se a tela inicial se comporta como o critério de aceite, contém o caso de teste funcional que valida a função anterior.
 
 ![Imagem apresentacao da Suite - Tela Inicial](img/ref_suite_telaInicial.png)
 
 ## Apresentação da Suite - Adicionar Itens
 
-Na aba Suite - Adicionar Itens contém o caso de teste funcional que valida a inclusão de itens na lista. Com o critério de aceite, severidade, resultado esperado, resultado obtido, se houve defeito e com status de Emojis que vão de carinha triste a feliz dependendo do resultado esperado.
+Na aba Suite - Adicionar Itens se comporta como o critério de aceite, contém o caso de teste funcional que valida a função anterior.
 
 ![Imagem apresentacao da Suite - Adicionar Itens](img/ref_suite_adicionarItens.png)
 
-
 ## Apresentação da Suite - Filtrar Itens Todos
+
+Na aba Suite - Filtrar Itens Todos se comporta como o critério de aceite, contém o caso de teste funcional que valida a função anterior.
 
 ![Imagem apresentacao da Suite - Filtrar Itens Todos](img/ref_suite_filtrarItensTodos.png)
 
-Na aba Suite - Filtrar Itens Todos contém o caso de teste funcional que valida a a funcionalidade de filtrar todos. Com o critério de aceite, severidade, resultado esperado, resultado obtido, se houve defeito e com status de Emojis que vão de carinha triste a feliz dependendo do resultado esperado.
+## Apresentação dos Macros
+
+Na aba Macros esta todas as regras e configuracoes da planilha ex:
+
+- Tipos de teste
+- Severidade
+- Prioridade
+- Meios de teste
+- Status com emojis
+
+![Imagem apresentacao dos Macros](img/ref_macros.png)
+
+Esta planilha foi disponiblizado pela Priscila de Araujo Caimim, professora da plataforma Qualiters Club. Plataforma de onde estudo.
